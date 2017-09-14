@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # solarlunar
 [![Build Status](https://api.travis-ci.org/nosixtools/solarlunar.svg?branch=master)](https://api.travis-ci.org/nosixtools/solarlunar)
 
@@ -48,8 +47,3 @@ func main() {
 	fmt.Println(festival.GetFestivals("2018-02-15"))
 	fmt.Println(festival.GetFestivals("2018-02-16"))
 }
-```
-
-=======
-# solarlunar.go
->>>>>>> 575cf672641e5bb8e1c22f16ebe06acb3e7723c0
