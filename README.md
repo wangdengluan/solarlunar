@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # solarlunar
 [![Build Status](https://api.travis-ci.org/nosixtools/solarlunar.svg?branch=master)](https://api.travis-ci.org/nosixtools/solarlunar)
 
@@ -49,3 +50,6 @@ func main() {
 }
 ```
 
+=======
+# solarlunar.go
+>>>>>>> 575cf672641e5bb8e1c22f16ebe06acb3e7723c0
