@@ -6,14 +6,14 @@
 
 ## 快速开始
 #### 下载和安装
-	go get -u github.com/nosixtools/solarlunar
+	go get -u github.com/wangdengluan/solarlunar
 #### 创建 solarlunar.go  阳历和阴历转化
 ```
 package main 
 
 
 import (
-	"github.com/nosixtools/solarlunar" 
+	"github.com/wangdengluan/solarlunar" 
 	"fmt"
 )
 
@@ -23,7 +23,7 @@ func main() {
 	fmt.Println(solarlunar.SolarToChineseLuanr(solarDate))
 	fmt.Println(solarlunar.SolarToSimpleLuanr(solarDate))
 	
-	lunarDate := "1990-04-12"
+	lunarDate := 2017-07-17 00:00:00 +0000 UTC
 	fmt.Println(solarlunar.LunarToSolar(lunarDate, false))
 }
 
@@ -35,7 +35,7 @@ package main
 
 import (
 "fmt"
-"github.com/nosixtools/solarlunar/festival"
+"github.com/wangdengluan/solarlunar/festival"
 )
 
 func main() {
